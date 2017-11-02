@@ -15,3 +15,7 @@ html {
 p {
   display: block;
 }
+
+a {
+  text-decoration: none;
+}
